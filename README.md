@@ -1,4 +1,4 @@
-# dxl1
+# dxl1 : dynamixel test code using dynamixel C++ SDK
 
 dependencies : dynamixel C++ SDK, g++, make
 
