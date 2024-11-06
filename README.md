@@ -1,5 +1,7 @@
 # dxl1
 
+dependencies : dynamixel C++ SDK, g++, make
+
 how to download source files
 
 $ wget https://raw.githubusercontent.com/2sungryul/actuator/refs/heads/main/dxl.hpp
